@@ -1,0 +1,3 @@
+# This is used to set up crontab on linux, use crontab -e and type in below 
+2 * * * * sh /home/pela01/s5320_cron_3980.sh  &>>/home/pela01/cronlog
+2 * * * * sh /home/pela01/s5320_cron_3981.sh  &>>/home/pela01/cronlog
